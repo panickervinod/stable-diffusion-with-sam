@@ -2,7 +2,7 @@
 
 ## How to run?
 ```
-git clone https://github.com/aneesh-aparajit/stable-diffusion-with-sam.git
+git clone git@github.com:panickervinod/stable-diffusion-with-sam.git
 python3 -m venv venv
 source venv/bin/activate
 cd stable-diffusion-with-sam/
